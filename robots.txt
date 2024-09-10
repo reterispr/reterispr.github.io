@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://reterispr.github.io/sitemap.html.gz
+Sitemap: https://reterispr.github.io/app/sitemap.html.gz
+Sitemap: https://reterispr.github.io/assets/sitemap.html.gz
+Sitemap: https://reterispr.github.io/css/sitemap.html.gz
+Sitemap: https://reterispr.github.io/includes/sitemap.html.gz
+Sitemap: https://reterispr.github.io/item/sitemap.html.gz
+Sitemap: https://reterispr.github.io/src/sitemap.html.gz
